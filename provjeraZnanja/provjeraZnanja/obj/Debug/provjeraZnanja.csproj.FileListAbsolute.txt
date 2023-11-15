@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\provjeraZnanja\provjeraZnanja\bin\Debug\provjeraZnanja.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\provjeraZnanja\provjeraZnanja\bin\Debug\provjeraZnanja.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\provjeraZnanja\provjeraZnanja\bin\Debug\provjeraZnanja.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\provjeraZnanja\provjeraZnanja\obj\Debug\provjeraZnanja.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\provjeraZnanja\provjeraZnanja\obj\Debug\provjeraZnanja.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\provjeraZnanja\provjeraZnanja\obj\Debug\provjeraZnanja.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\provjeraZnanja\provjeraZnanja\obj\Debug\provjeraZnanja.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\provjeraZnanja\provjeraZnanja\obj\Debug\provjeraZnanja.pdb
